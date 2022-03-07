@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38e213a1-b073-4fc3-ace1-c0d161c0476c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Day 15 - Coffe Machine and PYcharm/.idea/Day 15 - Coffe Machine and PYcharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 24 - File Merge/.idea/Day 24 - File Merge.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/Day 25 - CSV, Pandas.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 25 - CSV, Pandas/weather_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 26 - List comprehension/.idea/Day 26 - List comprehension.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/Day 27 - Tkinter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 27 - Tkinter/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/Day 28 - Pomodoro Tech GUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 28 - Pomodoro Tech GUI/tomato.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 29 - TKinter PW Manager/.idea/Day 29 - TKinter PW Manager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 29 - TKinter PW Manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 30 - Error HAndling JSon/.idea/Day 30 - Error HAndling JSon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 30 - Error HAndling JSon/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 31 - Capstone Flash Cards Program/.idea/Day 31 - Capstone Flash Cards Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 32 - Birthday Wisher (Day 32) start/.idea/Day 32 - Birthday Wisher (Day 32) start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 33 - API and ISS/.idea/Day 33 - API and ISS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 34 - API GUI QUIZ/2.1 quizzler-app-start/.idea/2.1 quizzler-app-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/Day 35 - API Authenic.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 35 - API Authenic/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 36- Applying API in stock news/.idea/Day 36- Applying API in stock news.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 36- Applying API in stock news/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 36- Applying API in stock news/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 36- Applying API in stock news/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day 36- Applying API in stock news/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../US - Quiz Game/.idea/US - Quiz Game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VC_coding_project" beforeDir="false" afterPath="$PROJECT_DIR$/../../VC_coding_project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="21SaJ3GRT1MIUQmKjOCIZayaDxh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38e213a1-b073-4fc3-ace1-c0d161c0476c" name="Changes" comment="" />
+      <created>1637936866861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637936866861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
